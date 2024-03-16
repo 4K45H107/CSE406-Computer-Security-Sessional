@@ -12,7 +12,6 @@ G = {"x": 0x6B17D1F2E12C4247F8BCE6E563A440F277037D812DEB33A0F4A13945D898C296,
 keyLength = [128, 192, 256]
 
 
-
 def extendGCD(a1, a2):
     # gcd, x, y
     if a1 == 0: return a2, 0, 1
